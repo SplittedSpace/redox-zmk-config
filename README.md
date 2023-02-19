@@ -1,2 +1,2 @@
-# redox-zmk-config
-ZMK configuration for wireless Redox keyboard
+# ZMK Firmware for Redox keyboard
+
