@@ -3,3 +3,5 @@ include:
     shield: redox_left
   - board: nrfmicro_13
     shield: redox_right
+  - board: nrfmicro_13
+    shield: settings_reset
